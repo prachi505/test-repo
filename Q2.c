@@ -24,7 +24,8 @@ void main()
 	for(i=0;i<n;i++)
 	{
       printf("%d\n",a[i]);
-  }
+    }
+    printf("editing the file");
 
 }
 
